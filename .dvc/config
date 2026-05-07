@@ -1,0 +1,4 @@
+[core]
+    remote = lab-day21-dvc-remote
+['remote "lab-day21-dvc-remote"']
+    url = s3://quanda-lab-day21-cicd/dvc
